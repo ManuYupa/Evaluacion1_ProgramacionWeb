@@ -1,0 +1,66 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-image: url(pexels-pixabay-326333.jpg);
+    color: #333;
+    font-family: Arial, sans-serif;
+    padding-top: 20px; /* Ajuste para dispositivos móviles */
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 10px; /* Ajuste para dispositivos móviles */
+}
+
+/* Estilos para el título */
+h1 {
+    text-align: center;
+}
+
+/* Estilos para el carrusel de imágenes */
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para el texto del carrusel */
+h5 {
+    text-align: center;
+}
+
+/* Estilos para el enlace de registro */
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Estilos para cambiar el color del texto a blanco */
+
+
+h1 {
+    color: rgb(255, 255, 255); /* Color blanco */
+    
+}
+h1 {
+    color: rgb(255, 255, 255); /* Color blanco */
+}
+
+h5 {
+    color: rgb(255, 255, 255); /* Color blanco */
+}
+
+/* Estilos para el texto del elemento mb-3 */
+.mb-3 {
+    color: #fff; /* Color blanco */
+}
