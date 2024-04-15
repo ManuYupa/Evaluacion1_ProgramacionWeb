@@ -1,6 +1,6 @@
 /* Estilos para el cuerpo de la página */
 body {
-    background-image: url(pexels-pixabay-326333.jpg);
+    background-image: url(wpp.jpg);
     color: #333;
     font-family: Arial, sans-serif;
     padding-top: 20px; /* Ajuste para dispositivos móviles */
@@ -16,6 +16,7 @@ body {
 /* Estilos para el título */
 h1 {
     text-align: center;
+    color: rgb(255, 255, 255); /* Color blanco */
 }
 
 /* Estilos para el carrusel de imágenes */
@@ -29,6 +30,7 @@ h1 {
 /* Estilos para el texto del carrusel */
 h5 {
     text-align: center;
+    color: rgb(255, 255, 255); /* Color blanco */
 }
 
 /* Estilos para el enlace de registro */
@@ -46,17 +48,7 @@ a:hover {
 }
 
 /* Estilos para cambiar el color del texto a blanco */
-
-
-h1 {
-    color: rgb(255, 255, 255); /* Color blanco */
-    
-}
-h1 {
-    color: rgb(255, 255, 255); /* Color blanco */
-}
-
-h5 {
+.text-white {
     color: rgb(255, 255, 255); /* Color blanco */
 }
 
